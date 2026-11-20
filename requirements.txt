@@ -1,0 +1,6 @@
+streamlit
+pypdf
+pandas
+requests
+chromadb
+langchain-text-splitters
